@@ -14,4 +14,4 @@ Sub Header description
 
 2. Open index.html in your browser 
 3. This is the 3rd change
-4. New update 
+4. New update.
