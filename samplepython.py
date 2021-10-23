@@ -15,3 +15,5 @@ print('The index values are: ', indexvalue)
 
 
 print('Python program is successfully executed')
+
+print('Thank you')
